@@ -1,0 +1,2 @@
+# equgen
+Generate equations
